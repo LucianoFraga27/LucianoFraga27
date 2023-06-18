@@ -1,7 +1,7 @@
 <h1 align="center">Eai 🤙🏽, sou o Luciano</h1>
 <h3 align="center">Desenvolvedor Java buscando crescimento.</h3>
 
-- 🔭 No momento estou desenvolvendo [medicate-project](https://github.com/LucianoFraga27/medicate-project)
+- 🔭 No momento estou desenvolvendo [consultorio-project](https://github.com/LucianoFraga27/consultorio-project)
 
 - 🌱 Em constante busca por aprendizado **Java, Spring Boot, MySQL, Angular, Flutter**
 
