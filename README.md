@@ -4,7 +4,7 @@
 - 🔭 No momento estou desenvolvendo [livraria-project](https://github.com/LucianoFraga27/livraria-project)
 
 - 🌱 Em constante busca por aprendizado **Java, Spring Boot, Oracle, MySQL, Angular, Flutter**
-- 
+
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/LucianoFraga27](https://github.com/LucianoFraga27)
 
 - 📫 email [lucianofragalopes@gmail.com](lucianofragalopes@gmail.com)
