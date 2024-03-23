@@ -21,86 +21,27 @@
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
-    <!-- Twitter -->
-    <a href="https://twitter.com/lucianofraga27" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucianofraga27" height="30" width="40" />
-    </a>
-    
-    <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/luciano-fraga-lopes" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-fraga-lopes" height="30" width="40" />
-    </a>
-    
-    <!-- Instagram -->
-    <a href="https://instagram.com/_lucianofraga" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lucianofraga" height="30" width="40" />
-    </a>
+<a href="https://twitter.com/lucianofraga27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucianofraga27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luciano-fraga-lopes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-fraga-lopes" height="30" width="40" /></a>
+<a href="https://instagram.com/_lucianofraga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lucianofraga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tecnologias e Ferramentas:</h3>
 <p align="left">
-    <!-- Java -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    
-    <!-- Spring -->
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-
-    <!-- Flutter -->
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-
-    <!-- Angular -->
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-    
-    <br>
-
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-
-    <!-- Firebase -->
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-
-    <!-- Keycloak -->
-    <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
-        <img src="https://repository-images.githubusercontent.com/285686362/18b9ec00-daf2-11ea-8f6f-4d5aeb309e63" alt="keycloak" width="40" height="40"/>
-    </a>
-
-    <!-- Amazon Web Services (AWS) -->
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-
-    <br>
-
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-
-    <!-- Oracle -->
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-
-    <!-- Apache Solr -->
-    <a href="https://solr.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354363/solr.svg" alt="solr" width="40" height="40"/>
-    </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+<br>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/285686362/18b9ec00-daf2-11ea-8f6f-4d5aeb309e63" alt="keycloak" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<br>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://solr.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354363/solr.svg" alt="solr" width="40" height="40"/></a>
 </p>
+
 
